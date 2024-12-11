@@ -1,0 +1,12 @@
+torch== 2.5.1
+torchvision==0.20.1
+torch-geometric>=2.3.0
+transformers>=4.30.0
+scikit-learn>=1.2.0
+h5py>=3.8.0
+tqdm>=4.65.0
+numpy>=1.25.0
+networkx>=3.1
+Pillow>=10.0.0
+Office365-REST-Python-Client>=2.5.1
+requests>=2.31.0
