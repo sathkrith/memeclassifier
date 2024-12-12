@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 
 ## Running tasks
-* Task 1: run the jupyter notebook `meme_classifier.ipynb`
+* Task 1: run the jupyter notebook `text_classification.ipynb`
 * Task 2a Multimodal Multilabel Classification: run the jupyter notebook `meme_classifier.ipynb`
 * Task 2b Binary Classification: run the jupyter notebook `multimodal_binary.ipynb`
   For Task 2b (Binary Classification) : path to the training and validation folders might need changing in the main method.
